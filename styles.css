@@ -290,7 +290,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .short-intro {
-    background-image: url(../images/interactive_image_v1_2\ \(1\).png);
+    background-image: url(./images/interactive_image_v1_2\ \(1\).png);
     background-repeat: no-repeat;
     background-position: left bottom;
     letter-spacing: 2px;
@@ -322,7 +322,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .short-intro .price {
-    background-image: url(../images/interactive_image_v1_3\ \(1\).png);
+    background-image: url(./images/interactive_image_v1_3\ \(1\).png);
     display: inline-block;
     min-width: 133px;
     min-height: 135px;
@@ -779,7 +779,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .call-to-action-1 {
-    background-image: url(../images/call_to_action_background\ \(1\).jpg);
+    background-image: url(./images/call_to_action_background\ \(1\).jpg);
     padding-top: 85px;
     padding-bottom: 95px;
     background-position: center;
@@ -1033,7 +1033,7 @@ h1, h2, h3, h4, h5, h6 {
 /* TESTIMONIAL */
 
 .testimonial {
-    background-image: url(../images/testimonial_v1_background\ \(1\).jpg);
+    background-image: url(./images/testimonial_v1_background\ \(1\).jpg);
     padding-top: 0;
     padding-bottom: 0;
     background-position: center;
@@ -1122,7 +1122,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .background-item {
-    background-image: url(../images/vector\ \(1\).png);
+    background-image: url(./images/vector\ \(1\).png);
     background-size: 135px;
     background-position: center;
     background-repeat: no-repeat;
@@ -1145,7 +1145,7 @@ footer {
 }
 
 .newsletter {
-    background-image: url(../images/newsletter_image.png);
+    background-image: url(./images/newsletter_image.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -1363,13 +1363,13 @@ footer a {
 }
 
 .widget_noo_happyhours .widget-title:before {
-    background-image: url(../images/oliu-left.png);
+    background-image: url(./images/oliu-left.png);
     top: 0;
     left: -20px;
 }
 
 .widget_noo_happyhours .widget-title:after {
-    background-image: url(../images/oliu-right.png);
+    background-image: url(./images/oliu-right.png);
     top: 0;
     right: -20px;
 }
